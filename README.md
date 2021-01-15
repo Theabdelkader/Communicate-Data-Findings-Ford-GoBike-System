@@ -1,6 +1,9 @@
 # Communicate-Data-Findings-Ford-GoBike-System
 ## by Mohamed Abdelkader
 
+##Basic information 
+> Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area. <br>
+> It was established as Bay Area Bike Share in August 2013. As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose. In June 2017 the system was officially re-launched as Ford GoBike in a partnership with Ford Motor Company. <br>
 
 ## Dataset
 
@@ -15,6 +18,14 @@
 - And ofc rarely used at night and early morning and average using is in day time between 8 am and 5 pm.
 - as we see Males always have higher durations and thirties ages are the longest time users.
 
+## key insights for presentation
+
+- main characteristics of the dataset 
+- There is correlation between sunday and saturday with the duration that means the bike is used at high level in weekends.
+- customer type has the longer trips duration than the subscriber.
+- features of interest ( trip duration, member gender, user type, trip start time, and member age)
+- Duration and Age groups with respect to other features
+
 ## References
 
 - https://datascienceplus.com/exploring-san-francisco-bay-areas-bike-share-system/
@@ -27,3 +38,4 @@
 - https://www.geeksforgeeks.org/python-pandas-dataframe-corr/
 - https://seaborn.pydata.org/examples/grouped_barplot.html
 - https://seaborn.pydata.org/generated/seaborn.catplot.html
+- https://julienbeaulieu.gitbook.io/wiki/sciences/programming/data-analysis/data-visualization/bivariate-exploration-of-data/overplotting-transparency-and-jitter
