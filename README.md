@@ -1,7 +1,7 @@
 # Communicate-Data-Findings-Ford-GoBike-System
 ## by Mohamed Abdelkader
 
-##Basic information 
+## Basic information 
 > Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area. <br>
 > It was established as Bay Area Bike Share in August 2013. As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose. In June 2017 the system was officially re-launched as Ford GoBike in a partnership with Ford Motor Company. <br>
 
